@@ -1,1 +1,4 @@
-# test-env
+```bash
+npm install
+npm run test
+```
